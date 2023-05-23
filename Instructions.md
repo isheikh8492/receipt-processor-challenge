@@ -5,7 +5,7 @@
 1. Clone this repository to your local machine:
 
 ```
-git clone https://github.com/your-github-username/your-repository-name.git
+git clone https://github.com/isheikh8492/receipt-processor-challenge.git
 ```
 2. Navigate to the project directory:
 
