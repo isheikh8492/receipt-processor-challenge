@@ -25,4 +25,4 @@ docker run -p 8080:8080 receipt_api
 ```
 
 
-This will start the application, and it will be accessible at http://localhost:8080.
+This will start the application, and it will be accessible at http://localhost:8080. If http://localhost:8080/hello gives a Hello World message, this means the Docker container is up and running.
